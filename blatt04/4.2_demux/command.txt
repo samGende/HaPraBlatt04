@@ -1,0 +1,3 @@
+Vermutlich müssen weitere Komponenten vor demux14.vhdl ergänzt werden
+
+python vhdl_script.py demux14.vhdl demux14_tb.vhdl and_gate.vhdl not_gate.vhdl
